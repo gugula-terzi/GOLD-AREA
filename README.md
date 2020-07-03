@@ -1,20 +1,19 @@
 # GOLD_AREA
-
-## My first python project done in practice
-
+hr
+My first python project done in practice
 
 ### Technical specification of the program:
   See the [Technical specification](https://github.com/gugula-terzi/GOLD-AREA/blob/master/program_files/Technical%20specification.pdf) file.
 
 ### Features of this program:
-  0. Show information about gold
-  0. Show information about gold quality
-  0. Add column
-  0. Add line
-  0. Delete line
-  0. Delete column
-  0. Find average for each quality
-  0. Write to a new file all the gold that has quality 1 and 2
-  0. Show information about gold
-  0. Find the maximum amount of gold that the robot can mine
-  0. Find local minimums in the matrix
+  1. Show information about gold
+  2. Show information about gold quality
+  3. Add column
+  4. Add line
+  5. Delete line
+  6. Delete column
+  7. Find average for each quality
+  8. Write to a new file all the gold that has quality 1 and 2
+  9. Show information about gold
+  10. Find the maximum amount of gold that the robot can mine
+  11. Find local minimums in the matrix
