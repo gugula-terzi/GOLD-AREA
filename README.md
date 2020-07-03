@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GOLD_BEARING_AREA
 
 ## My first python project done in practice
@@ -20,3 +21,6 @@ hr
   *9. Show information about gold
   *10. Find the maximum amount of gold that the robot can mine
   *11. Find local minimums in the matrix*
+=======
+# GOLD-AREA
+>>>>>>> eeb55c6833f574072350a93ea02d1ad22dc3c3d3
